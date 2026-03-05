@@ -9,3 +9,8 @@ UNIVARIATE ANALYSIS
 BIVARIATE ANALYSIS
 1. Use geospatial data to visualize the locations of substations and EV charging stations
 2. Analyse the capacity of transmission lines
+
+
+<img width="984" height="583" alt="output_13_0" src="https://github.com/user-attachments/assets/9b5a833b-e5b7-4baf-a529-d58c96f5e184" />
+
+<img width="984" height="583" alt="output_14_0" src="https://github.com/user-attachments/assets/88f87f41-80ff-4f9c-9212-4731476615f8" />
